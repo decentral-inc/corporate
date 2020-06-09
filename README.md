@@ -199,17 +199,3 @@ Hexo Corporate uses [Fancybox] to showcase your photos. You can use Markdown syn
 {% fancybox img_url [img_thumbnail] [img_caption] %}
 ```
 
-## Metronic Freebie License
-
-The Metronic CSS and JavaScript components are included with the following
-license:
-
-```
-You are free to use this freebie theme in your any personal or commercial
-projects. All used resources, plugins, stock images are subject to thier own
-licenses!
-
-The only limitation is that you are not permitted to use this theme in a stock
-items that sold in any theme marketplaces(e.g: themeforest.net,
-wrapbootstrap.com, etc...).
-```
