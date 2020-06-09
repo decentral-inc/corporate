@@ -23,7 +23,7 @@ This theme is based on Hexo Corporate.
 ## Install
 
 ```bash
-git clone https://github.com/decentral-inc/decentral.git themes/decentral
+git clone git@github.com:decentral-inc/decentral.git themes/decentral
 ```
 
 ## Enable
