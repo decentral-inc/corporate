@@ -104,7 +104,7 @@ social:
   twitter: https://twitter.com/lingqingmeng
   facebook: https://www.facebook.com/decentralsolutions
   rss: atom.xml
-  linkedin: https://www.linkedin.com/company/decentral-solutions/
+  linkedin: https://www.linkedin.com/company/decentralinc/
   stackoverflow: https://stackoverflow.com/users/2163873/ling-qing-meng
 
 # Miscellaneous
@@ -114,13 +114,13 @@ twitter_widget_id: "947183761371807744" # as a string, from https://twitter.com/
 twitter_username: lingqingmeng # twitter username without the @
 default_author: Anonymous
 
-about: Decentral Solutions © offers security services to companies using blockchain technologies. We help teams launch and manage ICOs, deploy secure dApps, and integrate private networks into business practices.<br><br> Our team has roots in traditional cybersecurity, originally consulting to large international institutes, ranging from the financial to healthcare sector. In addition each partner brings domain expertise in the fields of distributed systems, network architecture, scalability, and latest methodologies in frontend development. <br><br> We understand the emerging threats that companies face in the unregulated and high value space of cryptocurrencies. Our solutions are crafted to address these issues in the most effective ways possible. <br><br>
-phone: (650)383-0295
+about: Decentral Solutions © offers security services to companies using blockchain technologies. We help teams launch blockchain nodes, deploy custodial and non-custodial wallets, and scale remote teams while building towards security.<br><br> Our team has roots in traditional cybersecurity, originally consulting to large international institutes in multiple sectors. In addition each partner brings domain expertise in the fields of distributed systems, network architecture, scalability, and latest methodologies in frontend development. <br><br>Our solutions are crafted to keep pace with the latest trends in network security. <br><br>
+phone: (205)859-5336
 email: hello@decentral.solutions
-address_1: 1489 Webster St
-address_2: 6th Floor
-address_3: San Francisco, CA 94115
-skype: video@decentral.solutions
+address_1: 600 California St
+address_2: 11th Floor
+address_3: San Francisco, CA 94108
+skype: hello@decentral.solutions
 lat: 37.783953
 long: -122.431967
 ```
